@@ -1,6 +1,6 @@
 <img src="./nova.png" />
 
-I'm a junior web developer, student of biology and communication...and all that takes my curiosity!<br>
+I'm a junior software developer, student of biology and communication...and all that takes my curiosity!<br>
 
 <div align=center>
 <h2>My skills</h2>
