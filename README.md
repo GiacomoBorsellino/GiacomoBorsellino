@@ -12,6 +12,8 @@ I'm a software developer, student of biology and communication...and all that ta
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/ANGULAR-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Node](https://img.shields.io/badge/NODE-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![GrahpQL](https://img.shields.io/badge/GRAPHQL-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
