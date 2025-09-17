@@ -1,4 +1,4 @@
-<img src="./nova.png">
+<img src="./studio.png">
 
 I'm a software developer, student of biology and communication...and all that takes my curiosity!<br>
 
