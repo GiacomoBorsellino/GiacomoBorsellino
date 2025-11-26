@@ -13,9 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-## 🚀 Tech Stack
-
-<p style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+<p style="display: flex; flex-wrap: wrap; gap: 20px; align-items: left; gap:2px">
 
   <!-- Frontend -->
   <strong>🖥️ Frontend:</strong>
