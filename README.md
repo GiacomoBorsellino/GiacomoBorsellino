@@ -13,8 +13,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     <a href="https://angular.io" target="_blank" rel="noreferrer" style="background-color: transparent;" style="background-color: transparent;">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="background-color: transparent;"
         style="background-color: transparent;"> <img
