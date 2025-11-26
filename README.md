@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p style="display: flex; flex-wrap: wrap; gap: 20px; align-items: left; gap:2px">
+<p style="display: flex; flex-wrap: wrap; gap: 20px; align-items: left; justify-content:left">
 
   <!-- Frontend -->
   <strong>🖥️ Frontend:</strong>
