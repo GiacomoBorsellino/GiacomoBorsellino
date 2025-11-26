@@ -12,7 +12,7 @@
 <div align=center>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: start;">
+<div style="display: flex; flex-direction: row; gap: 10px;  ">
   
 <p style="display: flex; flex-direction: col; gap: 2px; align-items: center; justify-content: center">
 <h4 align="center">🖥️ Frontend </h4>
