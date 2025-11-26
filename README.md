@@ -12,7 +12,7 @@
 <div align=center>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" class="icon-links">
+<p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a>
@@ -94,8 +94,8 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"  border="0"/>
     </a>
 </p>
 
@@ -105,11 +105,3 @@
 </p>
 
 </div>
-
-<style>
-.icon-links a {
-    outline: none;
-    border: none;
-    -webkit-tap-highlight-color: transparent;
-}
-</style>
