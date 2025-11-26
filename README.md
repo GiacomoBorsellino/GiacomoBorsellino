@@ -12,6 +12,7 @@
 <div align=center>
 
 <h3 align="left">Languages and Tools:</h3>
+
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
@@ -51,8 +52,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
