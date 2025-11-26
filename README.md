@@ -12,7 +12,7 @@
 <div align=center>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; gap: 25px; flex-wrap: wrap;">
 
   <!-- FRONTEND -->
   <p style="display: flex; flex-direction: column; gap: 5px; align-items: center; justify-content: center">
