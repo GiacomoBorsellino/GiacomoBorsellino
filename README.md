@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./studio.png">
+
 # Giacomo Borsellino
 ### *aka Dedalo*
 
